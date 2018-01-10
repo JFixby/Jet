@@ -4,3 +4,5 @@ include 'jet-ios'
 include 'jet-html'
 include 'jet-core'
 include 'jet-assets-packer'
+include 'jet-assets'
+
