@@ -37,6 +37,7 @@ import com.jfixby.tools.gdx.texturepacker.api.TexturePacker;
 public class Repack9Patch {
 
 	private static boolean deleteGarbage = false;
+	static final String prefix = "com.jfixby.jet.";
 
 	public static void main (final String[] args) throws IOException {
 
@@ -57,6 +58,7 @@ public class Repack9Patch {
 
 		final File input_folder = LocalFileSystem.ApplicationHome().parent().child("jet-assets").child("raw");
 
+		L.d("input_folder", input_folder);
 		final File logfile = LocalFileSystem.ApplicationHome().child("RepackPSDScene.log");
 		logfile.delete();
 		final FileFilter filter = new FileFilter() {
@@ -65,23 +67,25 @@ public class Repack9Patch {
 				final String name = child.getName().toLowerCase();
 				// return name.contains("GameMainUI".toLowerCase())
 				// && name.endsWith(".psd");
-				return name.contains("001".toLowerCase()) && !name.contains("preloader".toLowerCase()) && name.endsWith(".psd");
+// return name.contains("001".toLowerCase()) && !name.contains("preloader".toLowerCase()) && name.endsWith(".psd");
+				return name.endsWith(".psd");
 			}
 		};
 		final FilesList psd_files = input_folder.listDirectChildren().filter(filter);
 		if (psd_files.size() == 0) {
+			L.d(psd_files);
 			L.d("No files found.");
-			input_folder.listDirectChildren().print("content");
 			Sys.exit();
 		}
-		psd_files.print("processing");
 // Sys.exit();
-		final File output_folder = LocalFileSystem.newFile(TintoAssetsConfigOld.TINTO_REMOTE_ASSETS_HOME).child("tank-0");
+// banks\local\com.jfixby.jet.assets.local
+		final File output_folder = LocalFileSystem.ApplicationHome().parent().child("jet-assets").child("banks").child("local")
+			.child(prefix + "assets.local").child("tank-0");
 		output_folder.makeFolder();
 		final List<CompressionInfo> compressedPNG = Collections.newList();
 		;
 		// output_folder.clearFolder();
-		final String prefix = "com.jfixby.tinto.";
+
 		totalTimer.reset();
 		for (final File psd_file : psd_files) {
 			packageTimer.reset();
@@ -142,8 +146,6 @@ public class Repack9Patch {
 				Sys.exit();
 
 			}
-
-			compressedPNG.print("compressed files");
 
 			L.d(" done", package_name_string);
 			packageTimer.printTime("PERFORMANCE-TEST: " + package_name_string);
