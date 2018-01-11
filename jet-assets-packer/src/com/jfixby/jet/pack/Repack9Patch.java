@@ -4,6 +4,7 @@ package com.jfixby.jet.pack;
 import java.io.IOException;
 
 import com.github.wrebecca.bleed.RebeccaTextureBleeder;
+import com.jfixby.jet.asset.JetLocalAssets;
 import com.jfixby.psd.unpacker.api.PSDUnpacker;
 import com.jfixby.psd.unpacker.core.RedPSDUnpacker;
 import com.jfixby.scarabei.api.collections.Collection;
@@ -37,7 +38,7 @@ import com.jfixby.tools.gdx.texturepacker.api.TexturePacker;
 public class Repack9Patch {
 
 	private static boolean deleteGarbage = false;
-	static final String prefix = "com.jfixby.jet.";
+// static final
 
 	public static void main (final String[] args) throws IOException {
 
@@ -80,7 +81,7 @@ public class Repack9Patch {
 // Sys.exit();
 // banks\local\com.jfixby.jet.assets.local
 		final File output_folder = LocalFileSystem.ApplicationHome().parent().child("jet-assets").child("banks").child("local")
-			.child(prefix + "assets.local").child("tank-0");
+			.child(JetLocalAssets.LOCAL_BANK_NAME).child("tank-0");
 		output_folder.makeFolder();
 		final List<CompressionInfo> compressedPNG = Collections.newList();
 		;
@@ -90,6 +91,7 @@ public class Repack9Patch {
 		for (final File psd_file : psd_files) {
 			packageTimer.reset();
 			L.d("------------------------------------------------------------------------------------------");
+			final String prefix = "com.jfixby.jet.";
 			String package_name_string = prefix + psd_file.getName().replaceAll(" animated", "").replaceAll("border ", "scene-");
 			package_name_string = package_name_string.substring(0, package_name_string.length() - ".psd".length());
 
