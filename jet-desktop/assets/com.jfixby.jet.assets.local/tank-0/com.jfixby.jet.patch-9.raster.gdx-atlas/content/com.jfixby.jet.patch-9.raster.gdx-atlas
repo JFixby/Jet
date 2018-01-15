@@ -1,0 +1,377 @@
+
+com.jfixby.jet.patch-9.raster.gdx-atlas.atlasdata.0.png
+size: 1024,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.jet.patch-9.raster_2.tile-424-0-0
+  rotate: false
+  xy: 262, 80
+  size: 256, 174
+  orig: 256, 174
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_2.tile-516-1-0
+  rotate: false
+  xy: 262, 80
+  size: 256, 174
+  orig: 256, 174
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_2.tile-658-2-0
+  rotate: false
+  xy: 262, 80
+  size: 256, 174
+  orig: 256, 174
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_15
+  rotate: false
+  xy: 354, 23
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_17
+  rotate: false
+  xy: 720, 135
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_18
+  rotate: false
+  xy: 686, 95
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_21
+  rotate: false
+  xy: 696, 52
+  size: 5, 39
+  orig: 5, 39
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_22
+  rotate: false
+  xy: 354, 10
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_23
+  rotate: false
+  xy: 361, 10
+  size: 2, 9
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_24
+  rotate: false
+  xy: 390, 66
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_25.tile-758-0-0
+  rotate: false
+  xy: 2, 50
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_25.tile-852-1-0
+  rotate: false
+  xy: 2, 50
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_25.tile-897-2-0
+  rotate: false
+  xy: 2, 50
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_26.tile-937-0-0
+  rotate: false
+  xy: 522, 169
+  size: 256, 85
+  orig: 256, 85
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_26.tile-961-1-0
+  rotate: false
+  xy: 522, 169
+  size: 256, 85
+  orig: 256, 85
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_26.tile-992-2-0
+  rotate: false
+  xy: 522, 169
+  size: 256, 85
+  orig: 256, 85
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_27
+  rotate: false
+  xy: 750, 136
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_29
+  rotate: false
+  xy: 104, 29
+  size: 79, 17
+  orig: 79, 17
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_31
+  rotate: false
+  xy: 167, 8
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_33
+  rotate: false
+  xy: 104, 8
+  size: 59, 17
+  orig: 59, 17
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_35
+  rotate: false
+  xy: 696, 9
+  size: 5, 39
+  orig: 5, 39
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_36
+  rotate: false
+  xy: 705, 52
+  size: 5, 39
+  orig: 5, 39
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_37
+  rotate: false
+  xy: 705, 20
+  size: 3, 28
+  orig: 3, 28
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_4
+  rotate: false
+  xy: 261, 10
+  size: 35, 36
+  orig: 38, 39
+  offset: 1, 2
+  index: -1
+com.jfixby.jet.patch-9.raster_38
+  rotate: false
+  xy: 778, 137
+  size: 3, 28
+  orig: 3, 28
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_39
+  rotate: false
+  xy: 712, 27
+  size: 1, 21
+  orig: 1, 21
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_40
+  rotate: false
+  xy: 712, 2
+  size: 1, 21
+  orig: 1, 21
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_41
+  rotate: false
+  xy: 187, 38
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_42
+  rotate: false
+  xy: 2, 4
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_44
+  rotate: false
+  xy: 262, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_45
+  rotate: false
+  xy: 326, 60
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_46
+  rotate: false
+  xy: 391, 6
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_49
+  rotate: false
+  xy: 346, 60
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_50
+  rotate: false
+  xy: 346, 60
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_54
+  rotate: false
+  xy: 346, 60
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_5
+  rotate: false
+  xy: 940, 217
+  size: 20, 37
+  orig: 25, 42
+  offset: 2, 3
+  index: -1
+com.jfixby.jet.patch-9.raster_51
+  rotate: false
+  xy: 290, 60
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_52
+  rotate: false
+  xy: 366, 60
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_53
+  rotate: false
+  xy: 378, 60
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_56
+  rotate: false
+  xy: 785, 134
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_62
+  rotate: false
+  xy: 785, 134
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_63
+  rotate: false
+  xy: 785, 134
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_57
+  rotate: false
+  xy: 842, 25
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_58
+  rotate: false
+  xy: 463, 11
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_61
+  rotate: false
+  xy: 909, 134
+  size: 27, 120
+  orig: 27, 120
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_6
+  rotate: false
+  xy: 686, 129
+  size: 30, 36
+  orig: 34, 39
+  offset: 2, 2
+  index: -1
+com.jfixby.jet.patch-9.raster_64
+  rotate: false
+  xy: 228, 5
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_65
+  rotate: false
+  xy: 717, 4
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_66
+  rotate: false
+  xy: 300, 6
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_9
+  rotate: false
+  xy: 522, 87
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_10
+  rotate: false
+  xy: 532, 5
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_12
+  rotate: false
+  xy: 604, 87
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.patch-9.raster_13
+  rotate: false
+  xy: 614, 5
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

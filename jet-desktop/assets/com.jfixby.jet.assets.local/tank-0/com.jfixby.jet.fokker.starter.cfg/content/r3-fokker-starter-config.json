@@ -1,0 +1,8 @@
+{
+  "params": {
+    "width": "1024",
+    "title": "Jet Wallet",
+    "useGL30": "true",
+    "height": "800"
+  }
+}
