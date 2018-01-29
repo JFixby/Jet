@@ -5,6 +5,7 @@ import java.io.IOException;
 
 import com.github.wrebecca.bleed.RebeccaTextureBleeder;
 import com.jfixby.jet.asset.JetLocalAssets;
+import com.jfixby.jet.pack.nine.SceneRepacker;
 import com.jfixby.psd.unpacker.api.PSDUnpacker;
 import com.jfixby.psd.unpacker.core.RedPSDUnpacker;
 import com.jfixby.r3.assets.packer.go.SystemAssetsBankBuilder;
@@ -53,7 +54,7 @@ public class DeployDesktopBank {
 		{
 			final File psdFile = HOME.parent().child("jet-assets").child("raw").child("patch-9.psd");
 			final ID package_name = Names.newID("com.jfixby.jet.patch-9");
-			Repack9PatchScene.rePack(tankFolder, psdFile, package_name);
+			SceneRepacker.rePack(tankFolder, psdFile, package_name);
 		}
 
 	}

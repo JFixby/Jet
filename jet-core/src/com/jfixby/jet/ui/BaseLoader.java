@@ -41,7 +41,7 @@ public class BaseLoader {
 
 		final ComponentsFactory components_factory = unitManager.getComponentsFactory();
 
-		this.scene = components_factory.getSceneFactory().newScene(config);
+		this.scene = components_factory.getSceneDepartment().newScene(config);
 		this.root.attachComponent(this.scene);
 
 		this.state.switchState(BASE_LOADER_STATE.UNKNOWN);
