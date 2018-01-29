@@ -13,8 +13,8 @@ public class MainScreen extends DefaultUnit {
 	@Override
 	public void onCreate (final ActivityManager unitManager) {
 		super.onCreate(unitManager);
-// final ID preloader_scene_id = Names.newID("com.jfixby.jet.patch-9").child("psd");
-		final ID preloader_scene_id = Names.newID("com.jfixby.tinto.ui.loader.base").child("psd");
+		final ID preloader_scene_id = Names.newID("com.jfixby.jet.scene-base-purple").child("psd");
+// final ID preloader_scene_id = Names.newID("com.jfixby.tinto.ui.loader.base").child("psd");
 		this.baseLoader.deploy(unitManager, preloader_scene_id);
 		this.baseLoader.show();
 	}
