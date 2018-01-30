@@ -1,19 +1,19 @@
 {
   "entries": [
     {
-      "id": "com.jfixby.jet.txt.string.stub",
+      "id": "com.jfixby.jet.txt.stub",
       "localizations": [
         {
           "name": "русский",
-          "container_id": "com.jfixby.jet.txt.string.stub.русский"
+          "container_id": "com.jfixby.jet.string.stub.русский"
         },
         {
           "name": "english",
-          "container_id": "com.jfixby.jet.txt.string.stub.english"
+          "container_id": "com.jfixby.jet.string.stub.english"
         },
         {
           "name": "italiano",
-          "container_id": "com.jfixby.jet.txt.string.stub.italiano"
+          "container_id": "com.jfixby.jet.string.stub.italiano"
         }
       ]
     }

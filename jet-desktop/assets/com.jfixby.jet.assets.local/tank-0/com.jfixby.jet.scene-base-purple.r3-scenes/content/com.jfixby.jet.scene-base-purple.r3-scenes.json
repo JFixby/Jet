@@ -500,7 +500,7 @@
             "list": []
           },
           "text_settings": {
-            "text_value_asset_id": "com.jfixby.jet.top_bar.txt",
+            "text_value_asset_id": "com.jfixby.jet.txt.stub",
             "font_settings": {
               "value_is_in_pixels": true,
               "font_size": 18.0,
@@ -962,7 +962,7 @@
             "list": []
           },
           "text_settings": {
-            "text_value_asset_id": "com.jfixby.jet.top_bar.txt",
+            "text_value_asset_id": "com.jfixby.jet.txt.stub",
             "font_settings": {
               "value_is_in_pixels": true,
               "font_size": 18.0,

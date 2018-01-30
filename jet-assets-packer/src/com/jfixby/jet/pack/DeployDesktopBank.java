@@ -5,6 +5,7 @@ import java.io.IOException;
 
 import com.github.wrebecca.bleed.RebeccaTextureBleeder;
 import com.jfixby.jet.asset.JetLocalAssets;
+import com.jfixby.jet.pack.nine.SceneRepacker;
 import com.jfixby.jet.pack.nine.StringPacker;
 import com.jfixby.jet.pack.nine.TextRepacker;
 import com.jfixby.psd.unpacker.api.PSDUnpacker;
@@ -39,7 +40,7 @@ public class DeployDesktopBank {
 
 		File bankJet = localAssets.child(JetLocalAssets.LOCAL_BANK_NAME.toString());
 		bankJet.makeFolder();
-// bankJet.clearFolder();
+		bankJet.clearFolder();
 		bankJet = SystemAssetsBankBuilder.writeBankHeader(localAssets, JetLocalAssets.LOCAL_BANK_NAME.toString());
 
 		final File tankFolder = bankJet.child("tank-0");
@@ -55,12 +56,12 @@ public class DeployDesktopBank {
 		{
 			final File psdFile = HOME.parent().child("jet-assets").child("raw").child("patch-9.psd");
 			final ID package_name = Names.newID("com.jfixby.jet.patch-9");
-// SceneRepacker.rePack(tankFolder, psdFile, package_name);
+			SceneRepacker.rePack(tankFolder, psdFile, package_name);
 		}
 		{
 			final File psdFile = HOME.parent().child("jet-assets").child("raw").child("scene-base-purple.psd");
 			final ID package_name = Names.newID("com.jfixby.jet.scene-base-purple");
-// SceneRepacker.rePack(tankFolder, psdFile, package_name);
+			SceneRepacker.rePack(tankFolder, psdFile, package_name);
 		}
 
 		{
@@ -71,7 +72,7 @@ public class DeployDesktopBank {
 
 		{
 			final File rawText = HOME.parent().child("jet-assets").child("raw").child("text");
-			final ID package_name = Names.newID("com.jfixby.jet.txt.string");
+			final ID package_name = Names.newID("com.jfixby.jet.string");
 			StringPacker.packStrings(tankFolder, rawText.listDirectChildren(), package_name);
 
 		}

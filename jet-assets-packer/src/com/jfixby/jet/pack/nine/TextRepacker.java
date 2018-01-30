@@ -43,12 +43,14 @@ public class TextRepacker {
 		{
 			final TextPackageEntry entry = new TextPackageEntry();
 
-			final ID text_id = Names.newID(package_id.toString()).child("string").child("stub");
+			final String stringName = "stub";
+
+			final ID text_id = Names.newID(package_id.toString()).child(stringName);
 			entry.id = text_id.toString();
 			root.entries.add(entry);
 			packed_texts.add(text_id);
 
-			final ID string_id_prefix = text_id;
+			final ID string_id_prefix = package_id.parent().child("string").child(stringName);
 
 			{
 				final TextLocalization localization = new TextLocalization();
