@@ -58,6 +58,8 @@ import com.jfixby.scarabei.api.sys.settings.SystemSettings;
 import com.jfixby.scarabei.api.ver.Version;
 import com.jfixby.scarabei.red.desktop.ScarabeiDesktop;
 import com.jfixby.scarabei.red.filesystem.sandbox.RedFileSystemSandBox;
+import com.jfixby.text.loaders.strings.StringPackageLoader;
+import com.jfixby.text.loaders.text.TextPackageLoader;
 
 public class RunJetDesktop {
 	public static void main (final String[] arg) throws Throwable {
@@ -161,6 +163,8 @@ public class RunJetDesktop {
 
 		PackagesLoader.registerPackageReader(new Scene2DPackageLoader());
 		PackagesLoader.registerPackageReader(new TiledRasterReader());
+		PackagesLoader.registerPackageReader(new TextPackageLoader());
+		PackagesLoader.registerPackageReader(new StringPackageLoader());
 
 		final RedActivityExecutor executor = new RedActivityExecutor(new JetDesktopAssembler());
 
