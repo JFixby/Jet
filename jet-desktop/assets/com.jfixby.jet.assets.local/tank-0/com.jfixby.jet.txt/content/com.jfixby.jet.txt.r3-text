@@ -1,3 +1,21 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "id": "com.jfixby.jet.txt.string.stub",
+      "localizations": [
+        {
+          "name": "русский",
+          "container_id": "com.jfixby.jet.txt.string.stub.русский"
+        },
+        {
+          "name": "english",
+          "container_id": "com.jfixby.jet.txt.string.stub.english"
+        },
+        {
+          "name": "italiano",
+          "container_id": "com.jfixby.jet.txt.string.stub.italiano"
+        }
+      ]
+    }
+  ]
 }

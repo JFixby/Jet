@@ -1,7 +1,7 @@
 {
   "format": "RedTriplane.Fokker.StarterConfig",
   "version": "1.0",
-  "timestamp": "1517248080606",
+  "timestamp": "1517317656337",
   "root_file_name": "r3-fokker-starter-config.json",
   "packed_assets": [
     "com.jfixby.jet.fokker.starter.cfg"

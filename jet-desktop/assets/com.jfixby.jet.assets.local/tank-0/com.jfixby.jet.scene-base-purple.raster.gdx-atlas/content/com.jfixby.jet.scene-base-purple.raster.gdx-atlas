@@ -1,0 +1,811 @@
+
+com.jfixby.jet.scene-base-purple.raster.gdx-atlas.atlasdata.0.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.jet.scene-base-purple.raster_0.tile-621-0-0
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-641-1-0
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-837-1-3
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-849-2-3
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-669-2-0
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-685-0-1
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-709-1-1
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-769-2-1
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-785-0-2
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-797-1-2
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-813-2-2
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-825-0-3
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-909-0-2
+  rotate: false
+  xy: 2, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-925-1-2
+  rotate: false
+  xy: 262, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-937-0-3
+  rotate: false
+  xy: 2, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-957-1-3
+  rotate: false
+  xy: 262, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-969-2-0
+  rotate: false
+  xy: 2602, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-973-2-1
+  rotate: false
+  xy: 2862, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-977-2-2
+  rotate: false
+  xy: 3122, 1790
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-985-2-3
+  rotate: false
+  xy: 1822, 230
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_9.tile-993-0-0
+  rotate: false
+  xy: 2082, 927
+  size: 256, 79
+  orig: 256, 79
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_9.tile-1-1-0
+  rotate: false
+  xy: 2342, 1187
+  size: 256, 79
+  orig: 256, 79
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_9.tile-5-2-0
+  rotate: false
+  xy: 262, 147
+  size: 142, 79
+  orig: 142, 79
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_12
+  rotate: false
+  xy: 2, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_15.tile-17-0-0
+  rotate: false
+  xy: 2, 124
+  size: 256, 102
+  orig: 256, 102
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_15.tile-25-1-0
+  rotate: false
+  xy: 2, 124
+  size: 256, 102
+  orig: 256, 102
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_15.tile-33-2-0
+  rotate: false
+  xy: 2, 124
+  size: 256, 102
+  orig: 256, 102
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-885-0-0
+  rotate: false
+  xy: 522, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-909-1-0
+  rotate: false
+  xy: 2, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-933-0-1
+  rotate: false
+  xy: 262, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-981-1-1
+  rotate: false
+  xy: 522, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-9-0-2
+  rotate: false
+  xy: 782, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-41-1-2
+  rotate: false
+  xy: 2, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-65-0-3
+  rotate: false
+  xy: 262, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-85-1-3
+  rotate: false
+  xy: 522, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-109-2-0
+  rotate: false
+  xy: 2082, 667
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-125-2-1
+  rotate: false
+  xy: 2342, 927
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-141-2-2
+  rotate: false
+  xy: 2670, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-151-2-3
+  rotate: false
+  xy: 2930, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-179-0-0
+  rotate: false
+  xy: 782, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-203-1-0
+  rotate: false
+  xy: 1042, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-227-0-1
+  rotate: false
+  xy: 2, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-255-1-1
+  rotate: false
+  xy: 262, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-283-0-2
+  rotate: false
+  xy: 522, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-311-1-2
+  rotate: false
+  xy: 782, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-335-0-3
+  rotate: false
+  xy: 1042, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-363-1-3
+  rotate: false
+  xy: 1302, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-395-2-0
+  rotate: false
+  xy: 3190, 1790
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-403-2-1
+  rotate: false
+  xy: 1890, 230
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-415-2-2
+  rotate: false
+  xy: 2150, 667
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_2.tile-427-2-3
+  rotate: false
+  xy: 2410, 927
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-459-0-0
+  rotate: false
+  xy: 2, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-479-1-0
+  rotate: false
+  xy: 262, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-503-0-1
+  rotate: false
+  xy: 522, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-527-1-1
+  rotate: false
+  xy: 782, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-547-0-2
+  rotate: false
+  xy: 1042, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-575-1-2
+  rotate: false
+  xy: 1302, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-615-0-3
+  rotate: false
+  xy: 1562, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-631-1-3
+  rotate: false
+  xy: 262, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-647-2-0
+  rotate: false
+  xy: 2738, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-655-2-1
+  rotate: false
+  xy: 2998, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-667-2-2
+  rotate: false
+  xy: 3258, 1790
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_3.tile-671-2-3
+  rotate: false
+  xy: 1958, 230
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-699-0-0
+  rotate: false
+  xy: 522, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-719-1-0
+  rotate: false
+  xy: 782, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-739-0-1
+  rotate: false
+  xy: 1042, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-767-1-1
+  rotate: false
+  xy: 1302, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-783-0-2
+  rotate: false
+  xy: 1562, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-803-1-2
+  rotate: false
+  xy: 1822, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-823-0-3
+  rotate: false
+  xy: 522, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-835-1-3
+  rotate: false
+  xy: 782, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-843-2-0
+  rotate: false
+  xy: 2218, 667
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-851-2-1
+  rotate: false
+  xy: 2478, 927
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-863-2-2
+  rotate: false
+  xy: 2806, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_4.tile-875-2-3
+  rotate: false
+  xy: 3066, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-899-0-0
+  rotate: false
+  xy: 1042, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-927-1-0
+  rotate: false
+  xy: 1302, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-963-0-1
+  rotate: false
+  xy: 1562, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-987-1-1
+  rotate: false
+  xy: 1822, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-23-0-2
+  rotate: false
+  xy: 2082, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-39-1-2
+  rotate: false
+  xy: 782, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-59-0-3
+  rotate: false
+  xy: 1042, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-83-1-3
+  rotate: false
+  xy: 1302, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-103-2-0
+  rotate: false
+  xy: 3326, 1790
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-115-2-1
+  rotate: false
+  xy: 2286, 667
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-127-2-2
+  rotate: false
+  xy: 2874, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-179-2-3
+  rotate: false
+  xy: 3134, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-205-0-0
+  rotate: false
+  xy: 1562, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-229-1-0
+  rotate: false
+  xy: 1822, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-249-0-1
+  rotate: false
+  xy: 2082, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-281-1-1
+  rotate: false
+  xy: 2342, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-301-0-2
+  rotate: false
+  xy: 1042, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-329-1-2
+  rotate: false
+  xy: 1302, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-373-0-3
+  rotate: false
+  xy: 1562, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-405-1-3
+  rotate: false
+  xy: 1822, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-425-2-0
+  rotate: false
+  xy: 3394, 1790
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-433-2-1
+  rotate: false
+  xy: 2354, 667
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-445-2-2
+  rotate: false
+  xy: 2942, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-453-2-3
+  rotate: false
+  xy: 3202, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-485-0-0
+  rotate: false
+  xy: 2082, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-521-1-0
+  rotate: false
+  xy: 2342, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-553-0-1
+  rotate: false
+  xy: 2602, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-601-1-1
+  rotate: false
+  xy: 1302, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-665-0-2
+  rotate: false
+  xy: 1562, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-713-1-2
+  rotate: false
+  xy: 1822, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-773-0-3
+  rotate: false
+  xy: 2082, 1010
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-789-1-3
+  rotate: false
+  xy: 2342, 1270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-805-2-0
+  rotate: false
+  xy: 3462, 1790
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-813-2-1
+  rotate: false
+  xy: 2422, 667
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-821-2-2
+  rotate: false
+  xy: 3010, 1270
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-829-2-3
+  rotate: false
+  xy: 3270, 1530
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-853-0-0
+  rotate: false
+  xy: 2602, 1530
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-869-1-0
+  rotate: false
+  xy: 2862, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-885-0-1
+  rotate: false
+  xy: 1562, 230
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-897-1-1
+  rotate: false
+  xy: 1822, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

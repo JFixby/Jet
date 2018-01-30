@@ -1,8 +1,14 @@
 {
   "format": "r3-text",
   "version": "1.0",
-  "timestamp": "1517248080821",
+  "timestamp": "1517317656485",
   "root_file_name": "com.jfixby.jet.txt.r3-text",
-  "packed_assets": [],
-  "package_dependencies": []
+  "packed_assets": [
+    "com.jfixby.jet.txt.string.stub"
+  ],
+  "package_dependencies": [
+    "com.jfixby.jet.txt.string.stub.русский",
+    "com.jfixby.jet.txt.string.stub.english",
+    "com.jfixby.jet.txt.string.stub.italiano"
+  ]
 }

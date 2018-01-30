@@ -1,0 +1,22 @@
+{
+  "format": "RedTriplane.TiledRaster",
+  "version": "1.0",
+  "timestamp": "1517313931896",
+  "root_file_name": "com.jfixby.jet.patch-9.r3-trs",
+  "packed_assets": [
+    "com.jfixby.jet.patch-9.raster_2",
+    "com.jfixby.jet.patch-9.raster_25",
+    "com.jfixby.jet.patch-9.raster_26"
+  ],
+  "package_dependencies": [
+    "com.jfixby.jet.patch-9.raster_2.tile-501-0-0",
+    "com.jfixby.jet.patch-9.raster_2.tile-565-1-0",
+    "com.jfixby.jet.patch-9.raster_2.tile-653-2-0",
+    "com.jfixby.jet.patch-9.raster_25.tile-692-0-0",
+    "com.jfixby.jet.patch-9.raster_25.tile-728-1-0",
+    "com.jfixby.jet.patch-9.raster_25.tile-768-2-0",
+    "com.jfixby.jet.patch-9.raster_26.tile-816-0-0",
+    "com.jfixby.jet.patch-9.raster_26.tile-832-1-0",
+    "com.jfixby.jet.patch-9.raster_26.tile-844-2-0"
+  ]
+}

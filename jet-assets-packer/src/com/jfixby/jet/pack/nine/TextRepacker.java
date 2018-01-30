@@ -5,18 +5,18 @@ import java.io.IOException;
 
 import com.jfixby.r3.rana.api.pkg.io.PackageDescriptor;
 import com.jfixby.r3.rana.red.pkg.bank.PackageUtils;
+import com.jfixby.r3.string.io.text.TextLocalization;
+import com.jfixby.r3.string.io.text.TextPackage;
+import com.jfixby.r3.string.io.text.TextPackageEntry;
 import com.jfixby.scarabei.api.collections.Collections;
 import com.jfixby.scarabei.api.collections.List;
 import com.jfixby.scarabei.api.collections.Set;
 import com.jfixby.scarabei.api.file.File;
 import com.jfixby.scarabei.api.json.Json;
 import com.jfixby.scarabei.api.names.ID;
-import com.jfixby.strings.api.io.text.TextLocalization;
-import com.jfixby.strings.api.io.text.TextPackage;
-import com.jfixby.strings.api.io.text.TextPackageEntry;
+import com.jfixby.scarabei.api.names.Names;
 
 public class TextRepacker {
-
 	static String RU = "русский";
 	static String EN = "english";
 	static String IT = "italiano";
@@ -35,11 +35,47 @@ public class TextRepacker {
 // for (int i = 2; i <= 20; i++) {
 // final String index = ("" + (1000 + i)).substring(1, 4);
 // final String scene_id = ".scene-" + index;
-// final ID text_id = Names.newID(package_id.toString() + scene_id + ".txt");
 // final ID string_id_prefix = Names.newID(package_id.parent().child("strings").toString() + scene_id + ".txt");
 // add(text_id, string_id_prefix, root, i, packed_texts, scene_id, required);
 //// L.d("----");
 // } // com.jfixby.tinto.text.scene-002.txt
+
+		{
+			final TextPackageEntry entry = new TextPackageEntry();
+
+			final ID text_id = Names.newID(package_id.toString()).child("string").child("stub");
+			entry.id = text_id.toString();
+			root.entries.add(entry);
+			packed_texts.add(text_id);
+
+			final ID string_id_prefix = text_id;
+
+			{
+				final TextLocalization localization = new TextLocalization();
+				entry.localizations.add(localization);
+				localization.name = RU;
+				final ID locale_id = string_id_prefix.child(localization.name);
+				localization.container_id = locale_id.toString();
+				required.add(locale_id);
+			}
+			{
+				final TextLocalization localization = new TextLocalization();
+				entry.localizations.add(localization);
+				localization.name = EN;
+				final ID locale_id = string_id_prefix.child(localization.name);
+				localization.container_id = locale_id.toString();
+				required.add(locale_id);
+			}
+			{
+				final TextLocalization localization = new TextLocalization();
+				entry.localizations.add(localization);
+				localization.name = IT;
+				final ID locale_id = string_id_prefix.child(localization.name);
+				localization.container_id = locale_id.toString();
+				required.add(locale_id);
+			}
+
+		}
 
 		final String localizations_list_file_name = package_id.child(TextPackage.PACKAGE_FILE_EXTENSION).toString();
 		final File root_file = package_content_folder.child(localizations_list_file_name);
