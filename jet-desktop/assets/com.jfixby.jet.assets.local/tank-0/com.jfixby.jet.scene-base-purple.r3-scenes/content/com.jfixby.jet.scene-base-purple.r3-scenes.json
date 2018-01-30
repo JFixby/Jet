@@ -504,7 +504,7 @@
             "font_settings": {
               "value_is_in_pixels": true,
               "font_size": 18.0,
-              "name": "GenericFont.otf",
+              "name": "otf.GenericFont",
               "font_color": "#00853974"
             },
             "padding": 10.0
@@ -866,7 +866,7 @@
             "font_settings": {
               "value_is_in_pixels": true,
               "font_size": 18.0,
-              "name": "GenericFont.otf",
+              "name": "otf.GenericFont",
               "font_color": "#00853974"
             },
             "padding": 10.0
@@ -966,7 +966,7 @@
             "font_settings": {
               "value_is_in_pixels": true,
               "font_size": 18.0,
-              "name": "GenericFont.otf",
+              "name": "otf.GenericFont",
               "font_color": "#00853974"
             },
             "padding": 10.0
