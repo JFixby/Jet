@@ -7,7 +7,7 @@ import com.jfixby.scarabei.api.names.ID;
 import com.jfixby.scarabei.api.names.Names;
 
 public class MainScreen extends DefaultUnit {
-	final BaseLoader baseLoader = new BaseLoader();
+	final BaseLoader mainScene = new BaseLoader();
 // public static final ID preloader_scene_id = Names.newID("com.jfixby.tinto.ui.loader.base.psd");
 
 	@Override
@@ -15,8 +15,8 @@ public class MainScreen extends DefaultUnit {
 		super.onCreate(unitManager);
 		final ID preloader_scene_id = Names.newID("com.jfixby.jet.scene-base-purple").child("psd");
 // final ID preloader_scene_id = Names.newID("com.jfixby.tinto.ui.loader.base").child("psd");
-		this.baseLoader.deploy(unitManager, preloader_scene_id);
-		this.baseLoader.show();
+		this.mainScene.deploy(unitManager, preloader_scene_id);
+		this.mainScene.show();
 	}
 
 	@Override

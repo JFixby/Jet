@@ -15,9 +15,9 @@ public class SceneRepacker {
 
 	public static void rePack (final File tankFolder, final File psdFile, final ID package_name) throws IOException {
 
-		final int max_texture_size = (512 * 0 + 256);
+		final int max_texture_size = (128);
 		final int margin = 0;
-		final int texturePadding = 4;
+		final int texturePadding = 0;
 		final int atlasPageSize = 2048 * 2;
 		final boolean ignore_atlas = !true;
 		final boolean forceRasterDecomposition = !true;
