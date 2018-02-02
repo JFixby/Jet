@@ -5,9 +5,9 @@ import java.io.IOException;
 
 import com.jfixby.r3.rana.api.pkg.io.PackageDescriptor;
 import com.jfixby.r3.rana.red.pkg.bank.PackageUtils;
-import com.jfixby.r3.string.io.text.TextLocalization;
-import com.jfixby.r3.string.io.text.TextPackage;
-import com.jfixby.r3.string.io.text.TextPackageEntry;
+import com.jfixby.r3.string.io.text.SrlzdTextLocalization;
+import com.jfixby.r3.string.io.text.SrlzdTextPackage;
+import com.jfixby.r3.string.io.text.SrlzdTextPackageEntry;
 import com.jfixby.scarabei.api.collections.Collections;
 import com.jfixby.scarabei.api.collections.List;
 import com.jfixby.scarabei.api.collections.Set;
@@ -29,7 +29,7 @@ public class TextRepacker {
 
 		final File package_content_folder = package_folder.child(PackageDescriptor.PACKAGE_CONTENT_FOLDER);
 		package_content_folder.makeFolder();
-		final TextPackage root = new TextPackage();
+		final SrlzdTextPackage root = new SrlzdTextPackage();
 		final List<ID> packed_texts = Collections.newList();
 		final Set<ID> required = Collections.newSet();
 // for (int i = 2; i <= 20; i++) {
@@ -41,7 +41,7 @@ public class TextRepacker {
 // } // com.jfixby.tinto.text.scene-002.txt
 
 		{
-			final TextPackageEntry entry = new TextPackageEntry();
+			final SrlzdTextPackageEntry entry = new SrlzdTextPackageEntry();
 
 			final String stringName = "stub";
 
@@ -53,7 +53,7 @@ public class TextRepacker {
 			final ID string_id_prefix = package_id.parent().child("string").child(stringName);
 
 			{
-				final TextLocalization localization = new TextLocalization();
+				final SrlzdTextLocalization localization = new SrlzdTextLocalization();
 				entry.localizations.add(localization);
 				localization.name = RU;
 				final ID locale_id = string_id_prefix.child(localization.name);
@@ -61,7 +61,7 @@ public class TextRepacker {
 				required.add(locale_id);
 			}
 			{
-				final TextLocalization localization = new TextLocalization();
+				final SrlzdTextLocalization localization = new SrlzdTextLocalization();
 				entry.localizations.add(localization);
 				localization.name = EN;
 				final ID locale_id = string_id_prefix.child(localization.name);
@@ -69,7 +69,7 @@ public class TextRepacker {
 				required.add(locale_id);
 			}
 			{
-				final TextLocalization localization = new TextLocalization();
+				final SrlzdTextLocalization localization = new SrlzdTextLocalization();
 				entry.localizations.add(localization);
 				localization.name = IT;
 				final ID locale_id = string_id_prefix.child(localization.name);
@@ -79,25 +79,25 @@ public class TextRepacker {
 
 		}
 
-		final String localizations_list_file_name = package_id.child(TextPackage.PACKAGE_FILE_EXTENSION).toString();
+		final String localizations_list_file_name = package_id.child(SrlzdTextPackage.PACKAGE_FILE_EXTENSION).toString();
 		final File root_file = package_content_folder.child(localizations_list_file_name);
 		final String root_data = Json.serializeToString(root).toString();
 		root_file.writeString(root_data);
 
-		PackageUtils.producePackageDescriptor(package_folder, TextPackage.PACKAGE_FORMAT, "1.0", packed_texts, required,
+		PackageUtils.producePackageDescriptor(package_folder, SrlzdTextPackage.PACKAGE_FORMAT, "1.0", packed_texts, required,
 			localizations_list_file_name);
 	}
 
-	private static void add (final ID text_id, final ID string_id_prefix, final TextPackage root, final int locale_index,
+	private static void add (final ID text_id, final ID string_id_prefix, final SrlzdTextPackage root, final int locale_index,
 		final List<ID> packed_texts, final String scene_id, final Set<ID> required) throws IOException {
 
-		final TextPackageEntry entry = new TextPackageEntry();
+		final SrlzdTextPackageEntry entry = new SrlzdTextPackageEntry();
 		entry.id = text_id.toString();
 		root.entries.add(entry);
 		packed_texts.add(text_id);
 
 		{
-			final TextLocalization localization = new TextLocalization();
+			final SrlzdTextLocalization localization = new SrlzdTextLocalization();
 			entry.localizations.add(localization);
 			localization.name = RU;
 			final ID locale_id = string_id_prefix.child(localization.name);
@@ -105,7 +105,7 @@ public class TextRepacker {
 			required.add(locale_id);
 		}
 		{
-			final TextLocalization localization = new TextLocalization();
+			final SrlzdTextLocalization localization = new SrlzdTextLocalization();
 			entry.localizations.add(localization);
 			localization.name = EN;
 			final ID locale_id = string_id_prefix.child(localization.name);
@@ -113,7 +113,7 @@ public class TextRepacker {
 			required.add(locale_id);
 		}
 		{
-			final TextLocalization localization = new TextLocalization();
+			final SrlzdTextLocalization localization = new SrlzdTextLocalization();
 			entry.localizations.add(localization);
 			localization.name = IT;
 			final ID locale_id = string_id_prefix.child(localization.name);

@@ -96,7 +96,8 @@ public class BaseLoader implements ScreenChangeListener {
 
 // this.deployUI();
 // this.resetProgress();
-// this.root.print();
+		this.root.print();
+// Sys.exit();
 	}
 
 	@Override
