@@ -1,7 +1,7 @@
 {
   "format": "RedTriplane.Scene2D",
   "version": "1.0",
-  "timestamp": "1517486601662",
+  "timestamp": "1519415145350",
   "root_file_name": "com.jfixby.jet.scene-base-purple.r3-scenes",
   "packed_assets": [
     "com.jfixby.jet.scene-base-purple.psd"
@@ -19,10 +19,7 @@
     "com.jfixby.jet.scene-base-purple.raster_9",
     "com.jfixby.jet.txt.stub",
     "otf.GenericFont",
-    "com.jfixby.jet.scene-base-purple.raster_12",
-    "com.jfixby.jet.txt.stub",
-    "otf.GenericFont",
-    "com.jfixby.jet.scene-base-purple.raster_15",
+    "com.jfixby.jet.scene-base-purple.raster_17",
     "com.jfixby.jet.txt.stub",
     "otf.GenericFont"
   ]
