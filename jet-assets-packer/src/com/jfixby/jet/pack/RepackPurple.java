@@ -69,7 +69,7 @@ public class RepackPurple {
 				// return name.contains("GameMainUI".toLowerCase())
 				// && name.endsWith(".psd");
 // return name.contains("001".toLowerCase()) && !name.contains("preloader".toLowerCase()) && name.endsWith(".psd");
-				return name.endsWith(".psd");
+				return name.endsWith(".psd") && name.contains("purple");
 			}
 		};
 		final FilesList psd_files = input_folder.listDirectChildren().filter(filter);

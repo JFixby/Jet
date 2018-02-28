@@ -1,20 +1,18 @@
 {
   "format": "libGDX.Atlas",
   "version": "1.0",
-  "timestamp": "1519415113629",
+  "timestamp": "1519837814897",
   "root_file_name": "com.jfixby.jet.scene-base-purple.raster.gdx-atlas",
   "packed_assets": [
-    "com.jfixby.jet.scene-base-purple.raster_0.tile-723-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_1.tile-768-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_2.tile-810-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_3.tile-883-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_4.tile-912-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_5.tile-935-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_6.tile-954-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_7.tile-983-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_8.tile-24-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_17.tile-48-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_9"
+    "com.jfixby.jet.scene-base-purple.raster_0.tile-54-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_1.tile-146-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_2.tile-222-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_3.tile-265-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_4.tile-344-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_5.tile-379-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_6.tile-428-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_7.tile-493-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_8.tile-525-0-0"
   ],
   "package_dependencies": []
 }
