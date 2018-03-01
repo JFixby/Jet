@@ -1,7 +1,7 @@
 {
   "format": "RedTriplane.TiledRaster",
   "version": "1.0",
-  "timestamp": "1519837813556",
+  "timestamp": "1519925888390",
   "root_file_name": "com.jfixby.jet.scene-base-purple.r3-trs",
   "packed_assets": [
     "com.jfixby.jet.scene-base-purple.raster_0",
@@ -12,17 +12,19 @@
     "com.jfixby.jet.scene-base-purple.raster_5",
     "com.jfixby.jet.scene-base-purple.raster_6",
     "com.jfixby.jet.scene-base-purple.raster_7",
-    "com.jfixby.jet.scene-base-purple.raster_8"
+    "com.jfixby.jet.scene-base-purple.raster_8",
+    "com.jfixby.jet.scene-base-purple.raster_9"
   ],
   "package_dependencies": [
-    "com.jfixby.jet.scene-base-purple.raster_0.tile-54-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_1.tile-146-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_2.tile-222-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_3.tile-265-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_4.tile-344-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_5.tile-379-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_6.tile-428-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_7.tile-493-0-0",
-    "com.jfixby.jet.scene-base-purple.raster_8.tile-525-0-0"
+    "com.jfixby.jet.scene-base-purple.raster_0.tile-874-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_1.tile-968-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_2.tile-62-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_3.tile-140-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_4.tile-155-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_5.tile-187-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_6.tile-233-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_7.tile-280-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_8.tile-312-0-0",
+    "com.jfixby.jet.scene-base-purple.raster_9.tile-358-0-0"
   ]
 }
