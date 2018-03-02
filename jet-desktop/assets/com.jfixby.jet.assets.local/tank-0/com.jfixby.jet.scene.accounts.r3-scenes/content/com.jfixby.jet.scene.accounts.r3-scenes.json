@@ -1,0 +1,269 @@
+{
+  "structures": [
+    {
+      "structure_name": "com.jfixby.jet.scene.accounts.psd",
+      "root": {
+        "uid": "le-0",
+        "is_sublayer": true,
+        "is_hidden": false,
+        "name": "com.jfixby.jet.scene.accounts.psd",
+        "opacity": 1.0,
+        "children": {
+          "list": [
+            "le-1"
+          ]
+        },
+        "camera_settings": {
+          "position_x": 96.0,
+          "position_y": 43.75,
+          "origin_relative_x": 0.5,
+          "origin_relative_y": 0.5,
+          "width": 192.0,
+          "height": 87.5,
+          "mode": "FILL_SCREEN"
+        }
+      },
+      "original_width": 192.0,
+      "original_height": 87.5,
+      "elements": {
+        "le-6": {
+          "uid": "le-6",
+          "is_raster": true,
+          "is_hidden": false,
+          "name": "Layer 9",
+          "raster_id": "com.jfixby.jet.scene.accounts.raster_1",
+          "blend_mode": "NORMAL",
+          "opacity": 1.0,
+          "position_x": 81.0,
+          "position_y": 44.0,
+          "width": 29.5,
+          "height": 29.5,
+          "children": {
+            "list": []
+          }
+        },
+        "le-7": {
+          "uid": "le-7",
+          "opacity": 1.0,
+          "children": {
+            "list": []
+          },
+          "input_settings": {
+            "is_button": false,
+            "is_switch": false,
+            "is_custom": false,
+            "is_touch_area": false,
+            "touch_area": {
+              "uid": "le-8",
+              "opacity": 1.0,
+              "children": {
+                "list": [
+                  "le-9"
+                ]
+              }
+            }
+          }
+        },
+        "le-4": {
+          "uid": "le-4",
+          "opacity": 1.0,
+          "children": {
+            "list": [
+              "le-5"
+            ]
+          }
+        },
+        "le-5": {
+          "uid": "le-5",
+          "name": "touch1",
+          "opacity": 1.0,
+          "position_x": 14.5,
+          "position_y": 13.0,
+          "width": 163.0,
+          "height": 20.0,
+          "children": {
+            "list": []
+          }
+        },
+        "le-8": {
+          "uid": "le-8",
+          "opacity": 1.0,
+          "children": {
+            "list": [
+              "le-9"
+            ]
+          }
+        },
+        "le-9": {
+          "uid": "le-9",
+          "name": "touch1",
+          "opacity": 1.0,
+          "position_x": 81.0,
+          "position_y": 44.0,
+          "width": 29.5,
+          "height": 29.5,
+          "children": {
+            "list": []
+          }
+        },
+        "le-2": {
+          "uid": "le-2",
+          "is_raster": true,
+          "is_hidden": false,
+          "name": "bg",
+          "raster_id": "com.jfixby.jet.scene.accounts.raster_3",
+          "blend_mode": "NORMAL",
+          "opacity": 1.0,
+          "position_x": 14.0,
+          "position_y": 13.0,
+          "width": 164.0,
+          "height": 20.0,
+          "children": {
+            "list": []
+          }
+        },
+        "le-3": {
+          "uid": "le-3",
+          "opacity": 1.0,
+          "children": {
+            "list": []
+          },
+          "input_settings": {
+            "is_button": false,
+            "is_switch": false,
+            "is_custom": false,
+            "is_touch_area": false,
+            "touch_area": {
+              "uid": "le-4",
+              "opacity": 1.0,
+              "children": {
+                "list": [
+                  "le-5"
+                ]
+              }
+            }
+          }
+        },
+        "le-0": {
+          "uid": "le-0",
+          "is_sublayer": true,
+          "is_hidden": false,
+          "name": "com.jfixby.jet.scene.accounts.psd",
+          "opacity": 1.0,
+          "children": {
+            "list": [
+              "le-1"
+            ]
+          },
+          "camera_settings": {
+            "position_x": 96.0,
+            "position_y": 43.75,
+            "origin_relative_x": 0.5,
+            "origin_relative_y": 0.5,
+            "width": 192.0,
+            "height": 87.5,
+            "mode": "FILL_SCREEN"
+          }
+        },
+        "le-1": {
+          "uid": "le-1",
+          "is_hidden": false,
+          "is_material_design": true,
+          "name": "list",
+          "opacity": 1.0,
+          "children": {
+            "list": []
+          },
+          "material_design_settings": {
+            "top_bar": {
+              "height": 0
+            },
+            "is_drawer": false,
+            "sections": [],
+            "is_buttons_list": true,
+            "list_item": {
+              "raster": {
+                "uid": "le-2",
+                "is_raster": true,
+                "is_hidden": false,
+                "name": "bg",
+                "raster_id": "com.jfixby.jet.scene.accounts.raster_3",
+                "blend_mode": "NORMAL",
+                "opacity": 1.0,
+                "position_x": 14.0,
+                "position_y": 13.0,
+                "width": 164.0,
+                "height": 20.0,
+                "children": {
+                  "list": []
+                }
+              },
+              "area": {
+                "uid": "le-3",
+                "opacity": 1.0,
+                "children": {
+                  "list": []
+                },
+                "input_settings": {
+                  "is_button": false,
+                  "is_switch": false,
+                  "is_custom": false,
+                  "is_touch_area": false,
+                  "touch_area": {
+                    "uid": "le-4",
+                    "opacity": 1.0,
+                    "children": {
+                      "list": [
+                        "le-5"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "new_list_item": {
+              "raster": {
+                "uid": "le-6",
+                "is_raster": true,
+                "is_hidden": false,
+                "name": "Layer 9",
+                "raster_id": "com.jfixby.jet.scene.accounts.raster_1",
+                "blend_mode": "NORMAL",
+                "opacity": 1.0,
+                "position_x": 81.0,
+                "position_y": 44.0,
+                "width": 29.5,
+                "height": 29.5,
+                "children": {
+                  "list": []
+                }
+              },
+              "area": {
+                "uid": "le-7",
+                "opacity": 1.0,
+                "children": {
+                  "list": []
+                },
+                "input_settings": {
+                  "is_button": false,
+                  "is_switch": false,
+                  "is_custom": false,
+                  "is_touch_area": false,
+                  "touch_area": {
+                    "uid": "le-8",
+                    "opacity": 1.0,
+                    "children": {
+                      "list": [
+                        "le-9"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

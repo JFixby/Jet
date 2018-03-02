@@ -4,273 +4,273 @@ size: 4096,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-com.jfixby.jet.scene-base-purple.raster_0.tile-661-0-0
+com.jfixby.jet.scene-base-purple.raster_0.tile-579-0-0
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_0.tile-673-0-1
+com.jfixby.jet.scene-base-purple.raster_0.tile-600-0-1
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_2.tile-784-1-0
+com.jfixby.jet.scene-base-purple.raster_2.tile-724-1-0
   rotate: false
   xy: 2560, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_2.tile-788-1-1
+com.jfixby.jet.scene-base-purple.raster_2.tile-729-1-1
   rotate: false
   xy: 2576, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_3.tile-797-0-0
+com.jfixby.jet.scene-base-purple.raster_3.tile-739-0-0
   rotate: false
   xy: 256, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_3.tile-813-0-1
+com.jfixby.jet.scene-base-purple.raster_3.tile-748-0-1
   rotate: false
   xy: 384, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_3.tile-824-1-0
+com.jfixby.jet.scene-base-purple.raster_3.tile-754-1-0
   rotate: false
   xy: 2592, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_3.tile-829-1-1
+com.jfixby.jet.scene-base-purple.raster_3.tile-758-1-1
   rotate: false
   xy: 2608, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_4.tile-839-0-0
+com.jfixby.jet.scene-base-purple.raster_4.tile-767-0-0
   rotate: false
   xy: 512, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_4.tile-847-0-1
+com.jfixby.jet.scene-base-purple.raster_4.tile-775-0-1
   rotate: false
   xy: 640, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_4.tile-853-1-0
+com.jfixby.jet.scene-base-purple.raster_4.tile-780-1-0
   rotate: false
   xy: 2624, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_4.tile-859-1-1
+com.jfixby.jet.scene-base-purple.raster_4.tile-785-1-1
   rotate: false
   xy: 2640, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_0.tile-683-1-0
-  rotate: false
-  xy: 2304, 0
-  size: 64, 128
-  orig: 64, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_5.tile-876-0-0
-  rotate: false
-  xy: 768, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_5.tile-887-0-1
-  rotate: false
-  xy: 896, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_5.tile-895-1-0
+com.jfixby.jet.scene-base-purple.raster_0.tile-622-1-0
   rotate: false
   xy: 2656, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_5.tile-900-1-1
+com.jfixby.jet.scene-base-purple.raster_5.tile-798-0-0
+  rotate: false
+  xy: 768, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-810-0-1
+  rotate: false
+  xy: 896, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_5.tile-820-1-0
   rotate: false
   xy: 2672, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_6.tile-912-0-0
-  rotate: false
-  xy: 1024, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_6.tile-922-0-1
-  rotate: false
-  xy: 1152, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_6.tile-931-1-0
+com.jfixby.jet.scene-base-purple.raster_5.tile-825-1-1
   rotate: false
   xy: 2688, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_6.tile-935-1-1
+com.jfixby.jet.scene-base-purple.raster_6.tile-835-0-0
+  rotate: false
+  xy: 1024, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-848-0-1
+  rotate: false
+  xy: 1152, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_6.tile-857-1-0
   rotate: false
   xy: 2704, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_7.tile-949-0-0
-  rotate: false
-  xy: 1280, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_7.tile-964-0-1
-  rotate: false
-  xy: 1408, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_0.tile-690-1-1
-  rotate: false
-  xy: 2368, 0
-  size: 64, 128
-  orig: 64, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_7.tile-975-1-0
+com.jfixby.jet.scene-base-purple.raster_6.tile-860-1-1
   rotate: false
   xy: 2720, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_7.tile-979-1-1
+com.jfixby.jet.scene-base-purple.raster_7.tile-876-0-0
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_7.tile-883-0-1
+  rotate: false
+  xy: 1408, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_0.tile-628-1-1
   rotate: false
   xy: 2736, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_8.tile-987-0-0
-  rotate: false
-  xy: 1536, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_8.tile-993-0-1
-  rotate: false
-  xy: 1664, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-com.jfixby.jet.scene-base-purple.raster_8.tile-998-1-0
+com.jfixby.jet.scene-base-purple.raster_7.tile-888-1-0
   rotate: false
   xy: 2752, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_8.tile-1-1-1
+com.jfixby.jet.scene-base-purple.raster_7.tile-892-1-1
   rotate: false
   xy: 2768, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_9
+com.jfixby.jet.scene-base-purple.raster_8.tile-901-0-0
   rotate: false
-  xy: 2432, 46
-  size: 30, 30
-  orig: 30, 30
+  xy: 1536, 0
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_17.tile-7-0-0
+com.jfixby.jet.scene-base-purple.raster_8.tile-908-0-1
+  rotate: false
+  xy: 1664, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-914-1-0
+  rotate: false
+  xy: 2304, 0
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_8.tile-922-1-1
+  rotate: false
+  xy: 2368, 0
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_9.tile-929-0-0
   rotate: false
   xy: 2432, 102
   size: 128, 26
   orig: 128, 26
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_17.tile-12-1-0
+com.jfixby.jet.scene-base-purple.raster_9.tile-933-1-0
   rotate: false
   xy: 2432, 76
   size: 64, 26
   orig: 64, 26
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_1.tile-704-0-0
+com.jfixby.jet.scene-base-purple.raster_10
+  rotate: false
+  xy: 2432, 65
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene-base-purple.raster_1.tile-645-0-0
   rotate: false
   xy: 1792, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_1.tile-720-0-1
+com.jfixby.jet.scene-base-purple.raster_1.tile-662-0-1
   rotate: false
   xy: 1920, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_1.tile-728-1-0
+com.jfixby.jet.scene-base-purple.raster_1.tile-674-1-0
   rotate: false
   xy: 2784, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_1.tile-733-1-1
+com.jfixby.jet.scene-base-purple.raster_1.tile-681-1-1
   rotate: false
   xy: 2800, 0
   size: 16, 128
   orig: 16, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_2.tile-752-0-0
+com.jfixby.jet.scene-base-purple.raster_2.tile-696-0-0
   rotate: false
   xy: 2048, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_2.tile-773-0-1
+com.jfixby.jet.scene-base-purple.raster_2.tile-712-0-1
   rotate: false
   xy: 2176, 0
   size: 128, 128

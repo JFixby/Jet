@@ -1,0 +1,13 @@
+{
+  "format": "RedTriplane.Scene2D",
+  "version": "1.0",
+  "timestamp": "1519936662598",
+  "root_file_name": "com.jfixby.jet.scene.accounts.r3-scenes",
+  "packed_assets": [
+    "com.jfixby.jet.scene.accounts.psd"
+  ],
+  "package_dependencies": [
+    "com.jfixby.jet.scene.accounts.raster_3",
+    "com.jfixby.jet.scene.accounts.raster_1"
+  ]
+}

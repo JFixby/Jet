@@ -63,9 +63,12 @@ public class DeployDesktopBank {
 			final ID package_name = Names.newID("com.jfixby.jet.scene-base-purple");
 			SceneRepacker.rePack(tankFolder, psdFile, package_name);
 		}
-
 		{
-
+			final File psdFile = HOME.parent().child("jet-assets").child("raw").child("com.jfixby.jet.scene.accounts.psd");
+			final ID package_name = Names.newID("com.jfixby.jet.scene.accounts");
+			SceneRepacker.rePack(tankFolder, psdFile, package_name);
+		}
+		{
 			final ID package_name = Names.newID("com.jfixby.jet.txt");
 			TextRepacker.rePack(tankFolder, package_name);
 		}

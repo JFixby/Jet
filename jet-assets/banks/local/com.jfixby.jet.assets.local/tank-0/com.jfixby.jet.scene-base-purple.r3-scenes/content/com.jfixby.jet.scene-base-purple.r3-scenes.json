@@ -491,7 +491,8 @@
               {
                 "layer_id": "le-14"
               }
-            ]
+            ],
+            "is_buttons_list": false
           }
         },
         "le-21": {

@@ -1,0 +1,27 @@
+
+com.jfixby.jet.scene.accounts.raster.gdx-atlas.atlasdata.0.png
+size: 256,32
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+com.jfixby.jet.scene.accounts.raster_1
+  rotate: false
+  xy: 164, 0
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene.accounts.raster_3.tile-624-0-0
+  rotate: false
+  xy: 0, 10
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
+com.jfixby.jet.scene.accounts.raster_3.tile-627-1-0
+  rotate: false
+  xy: 128, 10
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
