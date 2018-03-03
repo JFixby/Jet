@@ -11,14 +11,14 @@ com.jfixby.jet.scene.accounts.raster_1
   orig: 30, 30
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene.accounts.raster_3.tile-624-0-0
+com.jfixby.jet.scene.accounts.raster_3.tile-434-0-0
   rotate: false
   xy: 0, 10
   size: 128, 20
   orig: 128, 20
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene.accounts.raster_3.tile-627-1-0
+com.jfixby.jet.scene.accounts.raster_3.tile-439-1-0
   rotate: false
   xy: 128, 10
   size: 36, 20

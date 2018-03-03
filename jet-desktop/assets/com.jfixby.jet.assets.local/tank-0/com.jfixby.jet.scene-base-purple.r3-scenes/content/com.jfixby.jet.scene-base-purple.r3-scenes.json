@@ -181,16 +181,7 @@
           "name": "drawer",
           "opacity": 1.0,
           "children": {
-            "list": [
-              "le-14",
-              "le-15",
-              "le-16",
-              "le-17",
-              "le-18",
-              "le-19",
-              "le-20",
-              "le-21"
-            ]
+            "list": []
           },
           "material_design_settings": {
             "background": {
@@ -258,7 +249,18 @@
             "is_drawer": true,
             "sections": [
               {
-                "layer_id": "le-14"
+                "layer": {
+                  "uid": "le-14",
+                  "is_child_scene": true,
+                  "name": "Accounts",
+                  "opacity": 1.0,
+                  "children": {
+                    "list": []
+                  },
+                  "child_scene_settings": {
+                    "child_scene_id": "com.jfixby.jet.scene.accounts.psd"
+                  }
+                }
               }
             ],
             "is_buttons_list": false

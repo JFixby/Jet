@@ -4,7 +4,7 @@ size: 512,32
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-com.jfixby.jet.patch-9.raster_2.tile-328-0-0
+com.jfixby.jet.patch-9.raster_2.tile-243-0-0
   rotate: false
   xy: 96, 10
   size: 96, 22
@@ -53,14 +53,14 @@ com.jfixby.jet.patch-9.raster_24
   orig: 2, 2
   offset: 0, 0
   index: -1
-com.jfixby.jet.patch-9.raster_25.tile-346-0-0
+com.jfixby.jet.patch-9.raster_25.tile-264-0-0
   rotate: false
   xy: 0, 6
   size: 96, 26
   orig: 96, 26
   offset: 0, 0
   index: -1
-com.jfixby.jet.patch-9.raster_26.tile-356-0-0
+com.jfixby.jet.patch-9.raster_26.tile-279-0-0
   rotate: false
   xy: 192, 21
   size: 96, 11
