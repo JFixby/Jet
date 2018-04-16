@@ -11,7 +11,6 @@ import com.jfixby.r3.activity.api.spawn.ActivitySpawner;
 import com.jfixby.r3.activity.red.RedActivityExecutor;
 import com.jfixby.r3.activity.red.act.RedUIManager;
 import com.jfixby.r3.activity.red.raster.TiledRasterReader;
-import com.jfixby.r3.activity.red.scene.Scene2DPackageLoader;
 import com.jfixby.r3.activity.red.spawn.RedActivitySpawner;
 import com.jfixby.r3.engine.api.RedTriplane;
 import com.jfixby.r3.engine.api.render.R3_SYSTEM_PARAMS;
@@ -44,6 +43,9 @@ import com.jfixby.r3.rana.red.loader.RedPackagesLoader;
 import com.jfixby.r3.rana.red.manager.RedAssetsManager;
 import com.jfixby.r3.rana.red.pkg.bank.RedPackageManager;
 import com.jfixby.r3.rana.red.pkg.bank.RedResourcesManagerSpecs;
+import com.jfixby.r3.scene2d.api.Scene2D;
+import com.jfixby.r3.scene2d.red.RedScene2D;
+import com.jfixby.r3.scene2d.red.Scene2DPackageLoader;
 import com.jfixby.scarabei.api.collections.Collection;
 import com.jfixby.scarabei.api.debug.Debug;
 import com.jfixby.scarabei.api.file.File;
@@ -152,6 +154,8 @@ public class RunJetDesktop {
 		FokkerTextures.installComponent(new RedFokkerTextures());
 		RenderMachine.installComponent(new FokkerRenderMachine());
 		FokkerFonts.installComponent(new RedFokkerFonts());
+
+		Scene2D.installComponent(new RedScene2D());
 
 		UIEventsManager.installComponent(new RedUIManager());
 

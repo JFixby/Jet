@@ -8,9 +8,9 @@ import com.jfixby.r3.activity.api.camera.CanvasCameraSpecs;
 import com.jfixby.r3.activity.api.camera.SIMPLE_CAMERA_POLICY;
 import com.jfixby.r3.activity.api.camera.ScreenDimentions;
 import com.jfixby.r3.activity.api.layer.Layer;
-import com.jfixby.r3.activity.api.scene.Scene2DComponent;
-import com.jfixby.r3.activity.api.scene.Scene2DSpawningConfig;
 import com.jfixby.r3.activity.api.user.ScreenChangeListener;
+import com.jfixby.r3.scene2d.api.Scene2D;
+import com.jfixby.r3.scene2d.api.Scene2DSpawningConfig;
 import com.jfixby.scarabei.api.collections.Collections;
 import com.jfixby.scarabei.api.collections.List;
 import com.jfixby.scarabei.api.debug.Debug;
@@ -31,7 +31,6 @@ public class BaseLoader implements ScreenChangeListener {
 	}
 
 	private Layer root;
-	private Scene2DComponent scene;
 	private CanvasCamera camera;
 	private BackGround bg;
 
@@ -52,10 +51,10 @@ public class BaseLoader implements ScreenChangeListener {
 		newCameraSpecs.setSimpleCameraPolicy(SIMPLE_CAMERA_POLICY.EXPAND_CAMERA_VIEWPORT_ON_SCREEN_RESIZE);
 		this.camera = components_factory.getCameraDepartment().newCamera(newCameraSpecs);
 
-		this.scene = components_factory.getSceneDepartment().newScene(config);
+		final Layer scene = Scene2D.newScene(this.root.getComponentsFactory(), config);
 // root.attachComponent(attachment);
 		this.root.attachComponent(this);
-		this.root.attachComponent(this.scene);
+		this.root.attachComponent(scene);
 
 // scene.getRoot().findComponent(relative);
 		{
@@ -88,7 +87,6 @@ public class BaseLoader implements ScreenChangeListener {
 		this.root.show();
 
 		this.time.reset();
-		this.scene.startAllAnimations();
 
 // this.deployUI();
 // this.resetProgress();

@@ -4,14 +4,14 @@ size: 512,1024
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-com.jfixby.jet.scene-base-purple.raster_0.tile-306-0-0
+com.jfixby.jet.scene-base-purple.raster_0.tile-509-0-0
   rotate: false
   xy: 2, 292
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_1.tile-381-0-0
+com.jfixby.jet.scene-base-purple.raster_1.tile-580-0-0
   rotate: false
   xy: 198, 552
   size: 144, 256
@@ -25,56 +25,56 @@ com.jfixby.jet.scene-base-purple.raster_10
   orig: 13, 11
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_2.tile-426-0-0
+com.jfixby.jet.scene-base-purple.raster_2.tile-627-0-0
   rotate: false
   xy: 2, 32
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_3.tile-471-0-0
+com.jfixby.jet.scene-base-purple.raster_3.tile-663-0-0
   rotate: false
   xy: 150, 292
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_4.tile-501-0-0
+com.jfixby.jet.scene-base-purple.raster_4.tile-704-0-0
   rotate: false
   xy: 346, 552
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_5.tile-546-0-0
+com.jfixby.jet.scene-base-purple.raster_5.tile-739-0-0
   rotate: false
   xy: 150, 32
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_6.tile-561-0-0
+com.jfixby.jet.scene-base-purple.raster_6.tile-772-0-0
   rotate: false
   xy: 298, 292
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_7.tile-606-0-0
+com.jfixby.jet.scene-base-purple.raster_7.tile-814-0-0
   rotate: false
   xy: 298, 32
   size: 144, 256
   orig: 144, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_8.tile-636-0-0
+com.jfixby.jet.scene-base-purple.raster_8.tile-847-0-0
   rotate: false
   xy: 2, 552
   size: 192, 256
   orig: 192, 256
   offset: 0, 0
   index: -1
-com.jfixby.jet.scene-base-purple.raster_9.tile-651-0-0
+com.jfixby.jet.scene-base-purple.raster_9.tile-876-0-0
   rotate: false
   xy: 2, 2
   size: 192, 26
