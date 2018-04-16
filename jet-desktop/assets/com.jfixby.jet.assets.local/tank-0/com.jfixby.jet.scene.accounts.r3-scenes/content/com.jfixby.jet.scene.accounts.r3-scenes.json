@@ -1,0 +1,71 @@
+{
+  "structures": [
+    {
+      "structure_name": "com.jfixby.jet.scene.accounts.psd",
+      "root": {
+        "uid": "le-0",
+        "is_sublayer": true,
+        "is_hidden": false,
+        "name": "com.jfixby.jet.scene.accounts.psd",
+        "opacity": 1.0,
+        "children": {
+          "list": [
+            "le-1"
+          ]
+        },
+        "camera_settings": {
+          "position_x": 96.0,
+          "position_y": 43.75,
+          "origin_relative_x": 0.5,
+          "origin_relative_y": 0.5,
+          "width": 192.0,
+          "height": 87.5,
+          "mode": "FILL_SCREEN"
+        }
+      },
+      "original_width": 192.0,
+      "original_height": 87.5,
+      "elements": {
+        "le-0": {
+          "uid": "le-0",
+          "is_sublayer": true,
+          "is_hidden": false,
+          "name": "com.jfixby.jet.scene.accounts.psd",
+          "opacity": 1.0,
+          "children": {
+            "list": [
+              "le-1"
+            ]
+          },
+          "camera_settings": {
+            "position_x": 96.0,
+            "position_y": 43.75,
+            "origin_relative_x": 0.5,
+            "origin_relative_y": 0.5,
+            "width": 192.0,
+            "height": 87.5,
+            "mode": "FILL_SCREEN"
+          }
+        },
+        "le-1": {
+          "uid": "le-1",
+          "is_hidden": false,
+          "is_material_design": true,
+          "name": "list",
+          "opacity": 1.0,
+          "children": {
+            "list": []
+          },
+          "material_design_settings": {
+            "top_bar": {
+              "height": 0
+            },
+            "is_drawer": false,
+            "sections": [],
+            "is_buttons_list": true
+          }
+        }
+      }
+    }
+  ]
+}
